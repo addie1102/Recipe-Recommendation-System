@@ -1,4 +1,4 @@
 The project leverages the Food.com dataset, obtained from Kaggle and curated by Shuyang Li. This dataset encompasses a rich collection of recipes and user interactions, making it a valuable resource for building and evaluating the recommendation system. It
 consists of information such as recipe details, user ratings, and user interactions, providing a diverse and comprehensive foundation for the project.
 
-Dataset Link: [Dataset](https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions)  
+Dataset Link: https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions
